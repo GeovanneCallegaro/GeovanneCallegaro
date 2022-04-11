@@ -1,4 +1,4 @@
-## Olá, eu o sou Geovanne Callegaro 👋🏼
+## Olá, eu sou o Geovanne Callegaro 👋🏼
 
 - 💻 Sou um Desenvolvedor Frontend
 - ⚙ Sou especializado em Html, Css, Javascript e tenho noções de backend
