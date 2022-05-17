@@ -3,7 +3,7 @@
 - 💻 Sou um Desenvolvedor Frontend
 - ⚙ Sou especializado nas tecnologias do frontend: HTML, CSS, JavaScript, React! Futuramente, quero me aprofundar em desenvolvimento mobile!
 - 🌱 Principal Objetivo: Conseguir a primeira oportunidade no mercado de trabalho
-- 👨🏼‍💻 Meu website: <a href="https:devgeovannecallegaro.vercel.app">https:devgeovannecallegaro.vercel.app</a>
+- 👨🏼‍💻 Meu website: <a href="https:devgeovannecallegaro.vercel.app" target="_blank">https:devgeovannecallegaro.vercel.app</a>
 
 <div align="center">
   <a href="https://github.com/geovannecallegaro">
