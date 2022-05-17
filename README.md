@@ -1,8 +1,9 @@
 ## Olá, eu sou o Geovanne Callegaro 👋🏼
 
 - 💻 Sou um Desenvolvedor Frontend
-- ⚙ Sou especializado em Html, Css, Javascript e tenho noções de backend
-- 🌱 Objetivo: Conseguir a primeira oportunidade com desenvolvimento web
+- ⚙ Sou especializado nas tecnologias do frontend: HTML, CSS, JavaScript, React! Futuramente, quero me aprofundar em desenvolvimento mobile!
+- 🌱 Principal Objetivo: Conseguir a primeira oportunidade no mercado de trabalho
+- 👨🏼‍💻 Meu website: https:devgeovannecallegaro.vercel.app
 
 <div align="center">
   <a href="https://github.com/geovannecallegaro">
